@@ -15,7 +15,7 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
   Developed a full-stack system integrated with the Outlook API, NewDataIO, and OpenWeatherMap to map RAW API data into an image format for an ESP32-based device. The system features secure communication and token-based authentication.  
   *Tools/Technologies:* Node.js, Express.js, MongoDB, React, HTML, CSS
   
-- **UVM Multicore Verification:**  
+- **UVM Multicore:**  
   Verified a RISC-V multicore system with L1 caches and an MESI cache coherence protocol. Developed a UVM testbench as part of Purdue SoCET, focusing on atomic operations, cache coherency operations, and memory controller interactions. 
   *Tools/Technologies:* Questasim, System Verilog, UVM  
 
