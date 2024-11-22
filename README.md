@@ -5,7 +5,7 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
 
 ---
 
-## Projects I have worked on :computer: :chip:  
+## Projects I have worked on :computer:  
 
 - **RISC-V Processor:**  
   Designed and implemented a dual-core RISC-V processor with a 5-stage pipeline, split L1 Data and Instruction Caches, MSI Cache Coherency protocol, and atomic operations support (LR/SC).  
