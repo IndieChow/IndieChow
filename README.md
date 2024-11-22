@@ -16,7 +16,7 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
   *Tools/Technologies:* Node.js, Express.js, MongoDB, React, HTML, CSS
   
 - **UVM Multicore Verification:**  
-  Verified a RISC-V multicore system with L1 caches and an MESI cache coherence protocol. Developed a UVM testbench with monitors for each core, focusing on atomic operations, cache coherency operations, and memory controller interactions.  
+  Verified a RISC-V multicore system with L1 caches and an MESI cache coherence protocol. Developed a UVM testbench as part of Purdue SoCET, focusing on atomic operations, cache coherency operations, and memory controller interactions. 
   *Tools/Technologies:* Questasim, System Verilog, UVM  
 
 - **UVM-PLIC:**  
