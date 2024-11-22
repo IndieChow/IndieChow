@@ -13,21 +13,25 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
 
 - **Smart Home Calendar Full-Stack Development:**  
   Developed a full-stack system integrated with the Outlook API, NewDataIO, and OpenWeatherMap to map RAW API data into an image format for an ESP32-based device. The system features secure communication and token-based authentication.  
-  *Tools/Technologies:* Node.js, Express.js, MongoDB, React, HTML, CSS  
+  *Tools/Technologies:* Node.js, Express.js, MongoDB, React, HTML, CSS
+  
+- **UVM Multicore Verification:**  
+  Verified a RISC-V multicore system with L1 caches and an MESI cache coherence protocol. Developed a UVM testbench with monitors for each core, focusing on atomic operations, cache coherency operations, and memory controller interactions.  
+  *Tools/Technologies:* Questasim, System Verilog, UVM  
 
 - **UVM-PLIC:**  
   Hardware verification of a Platform Level Interrupt Controller (PLIC) using UVM. Developed testbenches and verified functionality as part of Purdue SoCET and SCALE.  
   *Tools/Technologies:* Questasim, VSCode, System Verilog  
 
-- **ECE337_CDL:**  
+- **ECE337-CDL:**  
   Hardware RTL design of an AHB Lite USB 1.0 protocol, developed through the Purdue ECE337 course.  
   *Tools/Technologies:* Questasim, VSCode, System Verilog  
 
-- **Ethernet_Shield:**  
+- **Ethernet-Shield:**  
   Designed a PCB for an Ethernet Shield as part of Purdue SoCET.  
   *Tools/Technologies:* KiCAD  
 
-- **Charger_PCB:**  
+- **Charger-PCB:**  
   Designed a PCB for a charger circuit with Purdue Electric Racing.  
   *Tools/Technologies:* Altium  
 
