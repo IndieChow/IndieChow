@@ -12,7 +12,7 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
   *Tools/Technologies:* Questasim, VSCode, System Verilog, FPGA Synthesis
 
 - **Smart Home Calendar Full-Stack Development:**  
-  Developed a full-stack system integrated with the Outlook API, NewDataIO, and OpenWeatherMap to map RAW API data into an image format for an ESP32-based device. The system features secure communication and token-based authentication.  
+  Developed a full-stack system integrated with the Outlook API, NewDataIO, and OpenWeatherMap to map RAW API data into an image format for an ESP32-based device. The system features secure communication and token-based authentication.
   *Tools/Technologies:* Node.js, Express.js, MongoDB, React, HTML, CSS
   
 - **UVM Multicore:**  
@@ -23,7 +23,12 @@ I am deeply involved in various projects through Purdue Electric Racing, Purdue 
   Hardware verification of a Platform Level Interrupt Controller (PLIC) using UVM. Developed testbenches and verified functionality as part of Purdue SoCET and SCALE.  
   *Tools/Technologies:* Questasim, VSCode, System Verilog  
 
-- **ECE337-CDL:**  
+- **ECE469 - Operating Systems Engineering:**
+Designed and implemented components of an operating system kernel in a simplified, networked UNIX-based environment. Gained hands-on experience with key OS concepts such as process management, virtual memory, file systems, and interprocess communication. Completed projects involving kernel development, performance evaluation, and distributed system design.
+Tools/Technologies: C, UNIX/Linux
+  
+  
+- **ECE337-CDL - ASIC Design:**  
   Hardware RTL design of an AHB Lite USB 1.0 protocol, developed through the Purdue ECE337 course.  
   *Tools/Technologies:* Questasim, VSCode, System Verilog  
 
