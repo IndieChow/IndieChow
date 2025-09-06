@@ -55,4 +55,4 @@ Tools/Technologies: C, UNIX/Linux
 ---
 
 > [!NOTE]  
-> Some of these repositories are private. Email me for access: **ichowdh@purdue.edu**.
+> Some of these repositories are private. Email me for access: **Indrayudh28@purdue.edu**.
